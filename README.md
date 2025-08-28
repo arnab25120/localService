@@ -11,7 +11,7 @@ This repository contains the source code and implementation of a Local Service w
 ## Overview
 The Local Service Website is a full-stack web platform that connects service providers with customers in a seamless way. It allows providers to register, post their services, and manage listings, while customers can browse, search, and request services. An admin panel ensures quality control by reviewing and approving services before they become publicly visible.
 
-## Overview
+## Features
 -User authentication and authorization(using JWT)
 -Service creation,modification and deletion
 -Content upload and management via Cloudinary
